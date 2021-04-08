@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins');
+
+
+*{
+  font-family: 'Poppins';
+}
+html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
+h1{
+  margin-bottom: 0;
+}
+
+#name{
+  margin-top: 0;
+}
